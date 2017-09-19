@@ -1,5 +1,5 @@
 # watsonnlu-bubblecloud
-Spring Boot App which allows user to upload a file and see Watson NLU results for that document in a bubble cloud.
+Spring Boot app which allows user to upload a file and see Watson NLU results for that document in a bubble cloud.
 
 Configure your Watson NLU username and password in NLUCredentials.java.
 
